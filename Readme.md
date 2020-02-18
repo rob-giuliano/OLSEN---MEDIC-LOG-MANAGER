@@ -2,6 +2,7 @@
 # Python
 # Project Name: OLSEN - MEDIC LOG MANAGER
 # ver  1.0
+# Demo YouTube: https://www.youtube.com/watch?v=76_-uaZfFxc
 # Developer: ROB GIULIANO  -a.k.a- PG
 #####################################################################
 
@@ -78,7 +79,6 @@ user: admin
 pass: admin
 
 ======================================================================
-
 
 
 Donation Project
