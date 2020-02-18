@@ -3,10 +3,6 @@
 # Project Name: OLSEN - MEDIC LOG MANAGER
 # ver  1.0
 # Developer: ROB GIULIANO  -a.k.a- PG
-# Etherium:       0x14996EE0113C46A34b14e4F30197768b174c9486
-# Bitcoin:        1HN7eNRiJFWR1JXQdMx2hwVCaANmbhnUrb
-# Bitcoin Cash:   qz7h44sqpn8ud2hv04tw2kgr9ayqu94gngm2tedvrt
-# Tipeeestream:   https://www.tipeeestream.com/rob-giuliano/donation
 #####################################################################
 
 
@@ -14,7 +10,6 @@
 OLSEN - MEDIC LOG MANAGER
 =========================
 
-This Project is free.
 
 License
 --------------
@@ -26,8 +21,6 @@ Description Project
 
 OLSEN - MEDIC LOG MANAGER - It a medical practice management software -
  was developed in Python3 to accommodate the needs of small to mid-size medical center, clinic or hospital
-
-
 
 
 
@@ -85,3 +78,14 @@ user: admin
 pass: admin
 
 ======================================================================
+
+
+
+Donation Project
+===================
+
+# Etherium:       0x14996EE0113C46A34b14e4F30197768b174c9486
+# Bitcoin:        1HN7eNRiJFWR1JXQdMx2hwVCaANmbhnUrb
+# Bitcoin Cash:   qz7h44sqpn8ud2hv04tw2kgr9ayqu94gngm2tedvrt
+# Tipeeestream:   https://www.tipeeestream.com/rob-giuliano/donation
+
