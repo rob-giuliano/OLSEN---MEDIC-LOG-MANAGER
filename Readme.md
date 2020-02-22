@@ -11,7 +11,7 @@ OLSEN - MEDIC LOG MANAGER - It a medical practice management software -
  was developed in Python3 to accommodate the needs of small to mid-size medical center, clinic or hospital
 
 
-
+![](images/1.png)
 
 
 
@@ -21,6 +21,9 @@ How is Work(demo)
 YouTube: https://www.youtube.com/watch?v=76_-uaZfFxc&t=200s
 
 
+![](images/3.png)
+![](images/4.png)
+![](images/2.png)
 
 
 Install "dependencies"
