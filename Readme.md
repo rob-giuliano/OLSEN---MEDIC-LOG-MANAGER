@@ -79,9 +79,10 @@ pass: admin
 
 
 
-License
---------------
-OLSEN - MEDIC LOG MANAGER >>> is released under the terms of the Gnu/Gpl.
+License & Copyright
+--------------------
+
+Licensed under the MIT License
 
 
 
