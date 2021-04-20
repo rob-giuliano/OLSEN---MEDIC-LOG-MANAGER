@@ -94,10 +94,7 @@ Donation Project
 
 Project Name: OLSEN - MEDIC LOG MANAGER.
 
-Etherium:       0x14996EE0113C46A34b14e4F30197768b174c9486
+Bitcoin:        3AFWVZFfGUDJ91PzJGR2SNKarbkpjZTYM1
 
-Bitcoin:        1HN7eNRiJFWR1JXQdMx2hwVCaANmbhnUrb
+Bitcoin Cash:   bitcoincash:qrwq9pa37jwz799ev6vctyfk2ka43fmkqvqjrg0kr2
 
-Bitcoin Cash:   qz7h44sqpn8ud2hv04tw2kgr9ayqu94gngm2tedvrt
-
-Tipeeestream:   https://www.tipeeestream.com/rob-giuliano/donation
