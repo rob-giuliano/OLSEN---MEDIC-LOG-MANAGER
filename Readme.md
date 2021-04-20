@@ -94,7 +94,7 @@ Donation Project
 
 Project Name: OLSEN - MEDIC LOG MANAGER.
 
-Bitcoin:        3AFWVZFfGUDJ91PzJGR2SNKarbkpjZTYM1
+Bitcoin:              3AFWVZFfGUDJ91PzJGR2SNKarbkpjZTYM1
 
-Bitcoin Cash:   bitcoincash:qrwq9pa37jwz799ev6vctyfk2ka43fmkqvqjrg0kr2
+Bitcoin Cash:         bitcoincash:qrwq9pa37jwz799ev6vctyfk2ka43fmkqvqjrg0kr2
 
